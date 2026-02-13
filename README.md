@@ -1,1 +1,1 @@
-# Quantum-Hybrid-Siamese-Network-for-predicting-Drug-Protein-Interaction
+# Quantum Hybrid Siamese Network for predicting Drug Protein Interaction
